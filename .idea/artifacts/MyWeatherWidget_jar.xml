@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyWeatherWidget:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyWeatherWidget_jar</output-path>
+    <root id="archive" name="MyWeatherWidget.jar">
+      <element id="module-output" name="MyWeatherWidget" />
+      <element id="extracted-dir" path="C:/Program Files/Java/jdk1.8.0_131/jre/lib/ext/java-json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
